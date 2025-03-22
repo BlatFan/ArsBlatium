@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "group": "blatium",
+  "template": {
+    "item": "blatium:blatium_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "ars_nouveau:arcanist_hat"
+  },
+  "addition": {
+    "tag": "forge:ingots/blatium"
+  },
+  "result": {
+    "item": "ars_blatium:blatium_hat"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "group": "nlium",
+  "template": {
+    "item": "blatium:nlium_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "ars_blatium:blatium_leggings"
+  },
+  "addition": {
+    "tag": "forge:ingots/nlium"
+  },
+  "result": {
+    "item": "ars_blatium:nlium_leggings"
+  }
+}

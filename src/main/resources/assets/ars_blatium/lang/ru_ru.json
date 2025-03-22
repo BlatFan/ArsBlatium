@@ -1,0 +1,19 @@
+{
+  "item.ars_blatium.blatium_boots": "Блатиум ботинки",
+  "item.ars_blatium.blatium_hat": "Блатиум шляпа",
+  "item.ars_blatium.blatium_leggings": "Блатиум штаны",
+  "item.ars_blatium.blatium_robes": "Блатиум роба",
+  "item.ars_blatium.blatium_spell_book": "Блатиум книга заклинаний",
+  "item.ars_blatium.nlium_boots": "Нлиум ботинки",
+  "item.ars_blatium.nlium_hat": "Нлиум шляпа",
+  "item.ars_blatium.nlium_leggings": "Нлиум штаны",
+  "item.ars_blatium.nlium_robes": "Нлиум роба",
+  "item.ars_blatium.nlium_spell_book": "Нлиум книга заклинаний",
+  "itemGroup.ars_blatium": "Арс Блатиум",
+  
+  "ars_nouveau.school.blatium": "Блатиум",
+  "ars_nouveau.glyph_name.glyph_blatium_hole": "Блатиум дыра",
+  "ars_nouveau.glyph_name.glyph_small_blatium_hole": "Малая блатиум дыра",
+  "ars_nouveau.glyph_desc.glyph_blatium_hole": "",
+  "ars_nouveau.glyph_desc.glyph_small_blatium_hole": ""
+}

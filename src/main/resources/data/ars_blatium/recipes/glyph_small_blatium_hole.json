@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blatium:blatium_ingot"
+    },
+    {
+        "item": "blatium:blatium_ingot"
+    },
+    {
+        "item": "blatium:blatium_ingot"
+    },
+    {
+        "item": "blatium:blatium_ingot"
+    },
+    {
+      "item": "ars_nouveau:fire_essence"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:glyph_small_blatium_hole"
+  }
+}

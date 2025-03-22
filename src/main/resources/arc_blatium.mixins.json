@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.blatfan.ars_blatium.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "arc_blatium.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

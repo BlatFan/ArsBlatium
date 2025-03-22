@@ -1,0 +1,93 @@
+
+["Materials Config"]
+
+	#Changing armor and tools values requires game restart
+	["Materials Config".blatium]
+
+		["Materials Config".blatium.armor]
+			values = [400, 550, 500, 400]
+			#Range: > 0
+			toughness = 25
+			#Range: 0.0 ~ 2.147483647E9
+			knockbackResistance = 25.0
+
+		["Materials Config".blatium.sword]
+			#Range: > 0
+			damage = 750
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.4
+
+		["Materials Config".blatium.pickaxe]
+			#Range: > 0
+			damage = 25
+			#Range: 0.0 ~ 2.147483647E9
+			destroyTime = 10.0
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.2
+
+		["Materials Config".blatium.axe]
+			#Range: > 0
+			damage = 800
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.0
+
+		["Materials Config".blatium.hoe]
+			#Range: > 0
+			damage = 10
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 4.0
+
+		["Materials Config".blatium.shovel]
+			#Range: > 0
+			damage = 10
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.0
+
+	["Materials Config".nlium]
+
+		["Materials Config".nlium.armor]
+			values = [800, 1100, 1000, 800]
+			#Range: > 0
+			toughness = 50
+			#Range: 0.0 ~ 2.147483647E9
+			knockbackResistance = 50.0
+
+		["Materials Config".nlium.sword]
+			#Range: > 0
+			damage = 1500
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.4
+
+		["Materials Config".nlium.pickaxe]
+			#Range: > 0
+			damage = 50
+			#Range: 0.0 ~ 2.147483647E9
+			destroyTime = 20.0
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.2
+
+		["Materials Config".nlium.axe]
+			#Range: > 0
+			damage = 1600
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.0
+
+		["Materials Config".nlium.hoe]
+			#Range: > 0
+			damage = 20
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 4.0
+
+		["Materials Config".nlium.shovel]
+			#Range: > 0
+			damage = 20
+			#Range: 0.0 ~ 2.147483647E9
+			speed = 1.0
+
+["Armor Damage Immune"]
+	helmet = true
+	chestplate = true
+	leggings = true
+	boots = true
+	full_set = true
+

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "group": "blatium",
+  "template": {
+    "item": "blatium:blatium_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "ars_nouveau:archmage_spell_book"
+  },
+  "addition": {
+    "tag": "forge:ingots/blatium"
+  },
+  "result": {
+    "item": "ars_blatium:blatium_spell_book"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "item.ars_blatium.blatium_boots": "Blatium Boots",
+  "item.ars_blatium.blatium_hat": "Blatium Hat",
+  "item.ars_blatium.blatium_leggings": "Blatium Leggings",
+  "item.ars_blatium.blatium_robes": "Blatium Robes",
+  "item.ars_blatium.blatium_spell_book": "Blatium Spellbook",
+  "item.ars_blatium.nlium_boots": "Nlium Boots",
+  "item.ars_blatium.nlium_hat": "Nlium Hat",
+  "item.ars_blatium.nlium_leggings": "Nlium Leggings",
+  "item.ars_blatium.nlium_robes": "Nlium Robes",
+  "item.ars_blatium.nlium_spell_book": "Nlium Spellbook",
+  "itemGroup.ars_blatium": "Ars Blatium",
+  
+  "mod_desc.ars_blatium": "A small mod for compatibility Blatium and Ars Nouveau",
+  
+  "ars_nouveau.school.blatium": "Blatium",
+  "ars_nouveau.glyph_name.glyph_blatium_hole": "Blatium Hole",
+  "ars_nouveau.glyph_name.glyph_small_blatium_hole": "Small Blatium Hole",
+  "ars_nouveau.glyph_desc.glyph_blatium_hole": "",
+  "ars_nouveau.glyph_desc.glyph_small_blatium_hole": ""
+}
