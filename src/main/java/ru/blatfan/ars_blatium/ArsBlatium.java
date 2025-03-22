@@ -89,8 +89,8 @@ public class ArsBlatium {
         public static final FluffyFurMod INS = new FluffyFurMod(MODID, "Ars Blatium", "0.1").setDev("BlatFan")
             .setNameColor(new Color(142, 95, 239)).setVersionColor(new Color(65, 36, 138))
             .setItem(ABRegistry.BLATIUM.getChest().getDefaultInstance()).setDescription(Component.translatable("mod_desc.ars_blatium"))
-            .addGithubLink("")
-            .addCurseForgeLink("")
+            .addGithubLink("https://github.com/BlatFan/ArsBlatium")
+            .addCurseForgeLink("https://www.curseforge.com/minecraft/mc-mods/ars-blatium")
             .addModrinthLink("https://modrinth.com/project/ars-blatium")
             .addDiscordLink("https://discord.gg/eHJChH9mqH")
             ;
